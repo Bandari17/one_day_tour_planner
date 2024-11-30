@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+streamlit
+neo4j
+requests
